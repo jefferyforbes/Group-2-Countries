@@ -7,16 +7,20 @@
     height: 700px;
 } */
 
+* {
+    font-family: 'Overlook';
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Source+Code+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Overlock&display=swap');
-
 nav {
     font-family: 'Overlock', serif;
 }
 
-html, body {
+html,
+body {
     width: 100%;
-    height: 100%; 
+    height: 100%;
 }
 
 .container {
@@ -31,4 +35,5 @@ html, body {
 
 img {
     width: 1200px;
-    height: 800px;}
+    height: 800px;
+}
