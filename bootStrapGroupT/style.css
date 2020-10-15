@@ -8,7 +8,11 @@
 } */
 
 @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Source+Code+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Overlock&display=swap');
 
+nav {
+    font-family: 'Overlock', serif;
+}
 
 html, body {
     width: 100%;
