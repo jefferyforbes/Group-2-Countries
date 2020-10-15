@@ -26,9 +26,13 @@ body {
 .container {
     margin-top: 50px;
     margin-bottom: 20px;
-    font-family: 'Architects Daughter', cursive;
+    font-family: 'Overlock', cursive;
 }
 
 #textStuff {
     margin-right: 50px;
 }
+
+img {
+    width: 1200px;
+    height: 800px;}
